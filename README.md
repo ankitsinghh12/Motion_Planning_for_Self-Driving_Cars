@@ -1,6 +1,7 @@
 # Motion Planning for Self-Driving Cars
 
-![Cover](./media/cover.gif)
+![carla-manual-control](https://github.com/ankitsinghh12/Motion_Planning_for_Self-Driving_Cars/assets/91384444/93d9c585-4625-41db-a93c-32cc45547304)
+
 
 This course will introduce you to the main planning tasks in autonomous driving, including mission planning, behavior planning and local planning. By the end of this course, you will be able to find the shortest path over a graph or road network using Dijkstra's and the A* algorithm, use finite state machines to select safe behaviors to execute, and design optimal, smooth paths and velocity profiles to navigate safely around obstacles while obeying traffic laws. You'll also build occupancy grid maps of static elements in the environment and learn how to use them for efficient collision checking. This course will give you the ability to construct a full self-driving planning solution, to take you from home to work while behaving like a typical driving and keeping the vehicle safe at all times. For the final project in this course, you will implement a hierarchical motion planner to navigate through a sequence of scenarios in the CARLA simulator, including avoiding a vehicle parked in your lane, following a lead vehicle and safely navigating an intersection.
 
